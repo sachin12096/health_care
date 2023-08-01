@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/iasp_remediation_poc/.idea/iasp_remediation_poc.iml" filepath="$USER_HOME$/Downloads/iasp_remediation_poc/.idea/iasp_remediation_poc.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/iasp_scheduler/.idea/iasp_scheduler.iml" filepath="$USER_HOME$/Downloads/iasp_scheduler/.idea/iasp_scheduler.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/iasp_scheduler_service/.idea/iasp_scheduler_service.iml" filepath="$USER_HOME$/Downloads/iasp_scheduler_service/.idea/iasp_scheduler_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/medication_scheduler.iml" filepath="$PROJECT_DIR$/.idea/medication_scheduler.iml" />
+    </modules>
+  </component>
+</project>
